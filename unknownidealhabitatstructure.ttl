@@ -1,0 +1,37 @@
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix socrata: <http://www.socrata.com/rdf/terms#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix ods: <http://open-data-standards.github.com/2012/01/open-data-standards#> .
+@prefix dcerm: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dsbase: <http://data.nasa.gov/resource/> .
+@prefix ds: <http://data.nasa.gov/resource/gvk9-iz74/> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix usps: <http://www.w3.org/2000/10/swap/pim/usps#> .
+@prefix schema: <http://schema.org/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix lsi: <http://data.thespaceplan.com/ontologies/lsi#> .
+<http://lunarsettlementindex.org/display/LSI/Unknown+Ideal+Habitat+Structure> dc:title "Unknown Ideal Habitat Structure" .
+<http://lunarsettlementindex.org/display/~admin> prov:hadRole lsi:author .
+<http://lunarsettlementindex.org/display/~ccrow> prov:hadRole lsi:author .
+<http://lunarsettlementindex.org/display/LSI/Unknown+Ideal+Habitat+Structure> lsi:lastmodified "2016-08-25T00:00:00Z"^^xsd:dateTime . 
+<http://lunarsettlementindex.org/display/LSI/Unknown+Ideal+Habitat+Structure> rdfs:comment "Further research and development must be done in order to determine the ideal habitat structure for a humans to survive on the Moon." .
+<http://lunarsettlementindex.org/display/LSI/Unknown+Ideal+Habitat+Structure> lsi:roadblockType "Technical" .
+<http://lunarsettlementindex.org/display/LSI/Unknown+Ideal+Habitat+Structure>lsi:priority "2"^^xsd:integer .
+<http://lunarsettlementindex.org/display/LSI/Unknown+Ideal+Habitat+Structure> lsi:containsSolutionCategory <http://lunarsettlementindex.org/display/LSI/Structure+Materials> .
+<http://lunarsettlementindex.org/display/LSI/Structure+Materials> a lsi:SolutionCategory .
+<http://lunarsettlementindex.org/display/LSI/Structure+Materials> dc:title "Structure Materials" . 
+<http://lunarsettlementindex.org/display/LSI/Unknown+Ideal+Habitat+Structure> lsi:label <http://lunarsettlementindex.org/label/LSI/habitation-infrastructure> .
+<http://lunarsettlementindex.org/label/LSI/habitation-infrastructure> dc:title "habitation-infrastructure" .
+<http://lunarsettlementindex.org/display/LSI/Unknown+Ideal+Habitat+Structure> lsi:label <http://lunarsettlementindex.org/label/LSI/lunar-environment> .
+<http://lunarsettlementindex.org/label/LSI/lunar-environment> dc:title "lunar-environment" .
+<http://lunarsettlementindex.org/display/LSI/Unknown+Ideal+Habitat+Structure> lsi:citation "Citations:Rojdev, Christina, and Mary Jane O'Rourke, et al., &quot;In-situ strain analysis of potential habitat composites exposed to a simulated long-term lunar radiation exposure,&quot;&nbsp;Radiation Physics and Chemistry 84 (2013): 235&ndash;241. PDFDenisov, A. N., and N. V. Kuznetsov, et al., &quot;On the problem of lunar radiation environment,&quot; Cosmic Research, 2010, 48.6 (2010): 509 - 516. PDFBenaroya., H., Bernold, L., &quot;Engineering of lunar bases,&quot;&nbsp;Acta Astronautica, 62 (2008) 277 &ndash; 299Benaroya - 2008 - Engineering of lunar bases.pdfRojdev, Christina, and Mary Jane O'Rourke, et al., &quot;In-situ strain analysis of potential habitat composites exposed to a simulated long-term lunar radiation exposure,&quot; Radiation Physics and Chemistry 84 (2013): 235–241. PDF  Denisov, A. N., and N. V. Kuznetsov, et al., &quot;On the problem of lunar radiation environment,&quot; Cosmic Research, 2010, 48.6 (2010): 509 - 516. PDF
+
+                
+        
+    
+        " .

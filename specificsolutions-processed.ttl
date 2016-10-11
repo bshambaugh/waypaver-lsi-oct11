@@ -1,0 +1,134 @@
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix socrata: <http://www.socrata.com/rdf/terms#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix ods: <http://open-data-standards.github.com/2012/01/open-data-standards#> .
+@prefix dcerm: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dsbase: <http://data.nasa.gov/resource/> .
+@prefix ds: <http://data.nasa.gov/resource/gvk9-iz74/> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix usps: <http://www.w3.org/2000/10/swap/pim/usps#> .
+@prefix schema: <http://schema.org/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix lsi: <http://data.thespaceplan.com/ontologies/lsii#> .
+<http://lunarsettlementindex.org/display/LSI/Diet-Psychology> dc:title "Diet Psychology" .
+<http://lunarsettlementindex.org/display/~mclarkson> prov:hadRole lsi:author .
+<http://lunarsettlementindex.org/display/LSI/Diet-Psychology> lsi:lastmodified "2016-07-05T00:00:00Z"^^xsd:dateTime . 
+<http://lunarsettlementindex.org/display/LSI/Diet-Psychology> rdfs:comment ">DescriptionMeal preparation methods should include the use of fresh ingredients from local resources as well as a certain amount of manual assembly as opposed to being ready-to-eat from a prepared package. The flavors and options must also be variegated enough to ensure the body absorbs nutrients at peak efficiency; flavorless or constant foods will result in body boredom and an eventual reduction in absorption." .
+<http://lunarsettlementindex.org/display/LSI/Diet-Psychology>  lsi:currentPlayer "NASA - Hawaii Space Analog and Simulation (HI-SEAS)" .
+<http://lunarsettlementindex.org/display/LSI/Diet-Psychology> lsi:progressStatus "Research: Ongoing" .
+<http://lunarsettlementindex.org/display/LSI/Diet-Psychology> lsi:estInvestmentCost "10000"^^xsd:integer .
+<http://lunarsettlementindex.org/display/LSI/Diet-Psychology> lsi:citation "Citations:Wei, Chunlan, Jian Zhou, Xueqiang Huang, and Min Li. &quot;Effects of Psychological Stress on Serum Iron and Erythropoiesis.&quot;&nbsp;Int J Hematol International Journal of Hematology&nbsp;88.1 (2008): 52-56. Web.Psychological Stress on Iron Deficiency.pdf&nbsp;&nbsp;
+
+                
+        
+    
+        " .
+<http://lunarsettlementindex.org/display/LSI/Carbothermal-Regolith-Reduction> dc:title "Carbothermal Regolith Reduction" .
+<http://lunarsettlementindex.org/display/~tmori> prov:hadRole lsi:author .
+<http://lunarsettlementindex.org/display/LSI/Carbothermal-Regolith-Reduction> lsi:lastmodified "2016-07-29T00:00:00Z"^^xsd:dateTime . 
+<http://lunarsettlementindex.org/display/LSI/Carbothermal-Regolith-Reduction> rdfs:comment ">DescriptionThe carbothermal regolith reduction is an existing terrestrial technology used to produce high-purity silicon from silicon dioxide. The same technique can be used to extract water and oxygen on the Moon with a 3-step process:&nbsp;1) Formation of carbon monoxide and hydrogen via carbothermic reduction of minerals containing metallic oxides2) Formation of methane and water through reduction of carbon monoxide with hydrogen3) Water electrolysis to form oxygen and hydrogen" .
+<http://lunarsettlementindex.org/display/LSI/Carbothermal-Regolith-Reduction>  lsi:currentPlayer "Pioneer Astronautics" .
+<http://lunarsettlementindex.org/display/LSI/Carbothermal-Regolith-Reduction> lsi:progressStatus "Research: Commenced" .
+<http://lunarsettlementindex.org/display/LSI/Carbothermal-Regolith-Reduction> lsi:estInvestmentCost "10000"^^xsd:integer .
+<http://lunarsettlementindex.org/display/LSI/Carbothermal-Regolith-Reduction> lsi:citation "Citations:Demonstrating the Solar Carbothermal Reduction of Lunar Regolith to Produce Oxygen,&nbsp;R.J. Gustafson, B.C. White, M.J. Fidler, A.C. Muscatello, AIAA 2010-1163, 48th AIAA Aerospace Sciences Meeting, 4-7 January 2010, Orlando, FL.Demonstrating Lunar Oxygen Production with the Carbothermal Regolith Reduction Process.pdf&nbsp;&nbsp;
+
+                
+        
+    
+        " .
+<http://lunarsettlementindex.org/display/LSI/Hydrogen-Reduction> dc:title "Hydrogen Reduction" .
+<http://lunarsettlementindex.org/display/~tmori> prov:hadRole lsi:author .
+<http://lunarsettlementindex.org/display/LSI/Hydrogen-Reduction> lsi:lastmodified "2016-07-05T00:00:00Z"^^xsd:dateTime . 
+<http://lunarsettlementindex.org/display/LSI/Hydrogen-Reduction> rdfs:comment ">DescriptionWater can be produced on the Moon by adding hydrogen to the lunar regolith.When heated to 1000 degrees Celsius, iron oxide contained in the regolith reacts with the added hydrogen to produce water, which can then be split into oxygen and hydrogen again through electrolysis.1Reduction: FeTiO3-H2&nbsp;----&gt; Fe-TiO2-H2OElectrolysis: 2H2O ----&gt; 2 H2- O2" .
+<http://lunarsettlementindex.org/display/LSI/Hydrogen-Reduction>  lsi:currentPlayer "&nbsp;" .
+<http://lunarsettlementindex.org/display/LSI/Hydrogen-Reduction> lsi:progressStatus "Research: Commenced" .
+<http://lunarsettlementindex.org/display/LSI/Hydrogen-Reduction> lsi:estInvestmentCost "10000"^^xsd:integer .
+<http://lunarsettlementindex.org/display/LSI/Hydrogen-Reduction> lsi:citation "Citations:G. &nbsp;Zhou &nbsp;and &nbsp;A. &nbsp;A. &nbsp;Mardon. 2010.&nbsp;LUNAR OXYGEN PRODUCTION THROUGH HYDROGEN REDUCTION AT HIGH TEMPERATURES.&nbsp;Annual LEAG Meeting, Lunar and Planetary Institute.Zhou_et_al.pdf&nbsp;U. Hegde et al. 2011.&nbsp;&nbsp;Hydrogen Reductio&nbsp;n of Lunar Regolith Simulants for Oxygen Production.&nbsp;NASA Scientific and Technical Information, NASA, Mar. 2010Hydrogen Reduction of Lunar Regolith Simulants for Oxygen Production.pdfHideto Yoshida et al. 2000.&nbsp;Experimental Study on Water Production by Hydrogen Reduction of Lunar Soil Simulant in a Fixed Bed Reactor.&nbsp;Second Space Resources Roundtable, Golden, USA, Nov. 2000Yoshida_et_al.pdf&nbsp;&nbsp;" .
+<http://lunarsettlementindex.org/display/LSI/Ionic-Liquids> dc:title "Ionic Liquids" .
+<http://lunarsettlementindex.org/display/~tmori> prov:hadRole lsi:author .
+<http://lunarsettlementindex.org/display/LSI/Ionic-Liquids> lsi:lastmodified "2016-08-19T00:00:00Z"^^xsd:dateTime . 
+<http://lunarsettlementindex.org/display/LSI/Ionic-Liquids> rdfs:comment ">DescriptionIonic liquids are composed almost exclusively of oppositely charged ions and are generally composed of an organic salt or eutectic mixture of an organic and inorganic salt. Some of the notable chemical properties of Ionic Liquids are:Low melting temperature (at 100 degrees C or lower)Exhibit negligible vapor pressureLow flammabilitiesRegenerable&nbsp;Extraction ProcessBarrios, Elizabeth A. et al (2011),&nbsp;Oxygen Extraction from Regolith Using Ionic Liquids. NASA&nbsp;Marshall Space Flight Center, 01 Jan 2011, Huntsville, AL,&nbsp;USALunar regolith is ground to desired consistencyIonic liquid is added to ground lunar regolith at about 200 degrees CRegolith solubilized for approximately 24 hoursHydrogen atom from the ionic liquid bonds to the oxygen atoms of the metal oxides to form water vapor&nbsp;Water vapor is condensed to form liquid waterLiquid water can then be separated further into hydrogen and oxygen through electrolysis. Hydrogen can then be recycled back to regenerate the spent ionic liquid.&nbsp;AdvantagesLower operating temperature. Molten Oxide Electrolysis* requires a maintained operating temperature of around 1,600 degrees C, whereas ionic liquid method only requires 200 degrees C.Low toxicityAbility to be regenerated and reused&nbsp;*&nbsp;MOE is a process in which lunar regolith is heated at 1,600 degrees C to form a molten electrolyte, and separated into gaseous oxygen, metals through electrolysis." .
+<http://lunarsettlementindex.org/display/LSI/Ionic-Liquids>  lsi:currentPlayer "&nbsp;" .
+<http://lunarsettlementindex.org/display/LSI/Ionic-Liquids> lsi:progressStatus "Research: Ongoing" .
+<http://lunarsettlementindex.org/display/LSI/Ionic-Liquids> lsi:estInvestmentCost "100000"^^xsd:integer .
+<http://lunarsettlementindex.org/display/LSI/Ionic-Liquids> lsi:citation "Citations:Barrios, Elizabeth A. et al (2011),&nbsp;Oxygen Extraction from Regolith Using Ionic Liquids. NASA&nbsp;Marshall Space Flight Center, 01 Jan 2011, Huntsville, AL,&nbsp;USAOxygen Extraction from Regolith Using Ionic LiquidsM Marone; MS Paley; DN Donovan; LJ Karr (2009). Lunar Oxygen Production and Metals Extraction Using Ionic Liquids. LEAG Meeting, 18 Nov 2009, Houston, Texas, USA.&nbsp;Lunar Oxygen Production and Metals Extraction Using Ionic Liquids&nbsp;&nbsp;
+
+                
+        
+    
+        " .
+<http://lunarsettlementindex.org/display/LSI/Microwaving-Water-from-Lunar-Regolith> dc:title "Microwaving Water from Lunar Regolith" .
+<http://lunarsettlementindex.org/display/~tmori> prov:hadRole lsi:author .
+<http://lunarsettlementindex.org/display/LSI/Microwaving-Water-from-Lunar-Regolith> lsi:lastmodified "2016-08-19T00:00:00Z"^^xsd:dateTime . 
+<http://lunarsettlementindex.org/display/LSI/Microwaving-Water-from-Lunar-Regolith> rdfs:comment ">DescriptionWater contained in the upper layers of the lunar regolith can be vaporized and extracted by microwaving the surrounding soil particles.Lunar regolith has a very low thermal conductivity due to the vacuum environment. This makes it harder to directly vaporize water ice contained in the dust. However, we can indirectly heat the water ice by microwaving the surrounding regolith particles. Vaporized water can then be extracted as it condenses near the surface and transforms back into ice inside a cold trap.&nbsp;" .
+<http://lunarsettlementindex.org/display/LSI/Microwaving-Water-from-Lunar-Regolith>  lsi:currentPlayer "&nbsp;" .
+<http://lunarsettlementindex.org/display/LSI/Microwaving-Water-from-Lunar-Regolith> lsi:progressStatus "Research: Ongoing" .
+<http://lunarsettlementindex.org/display/LSI/Microwaving-Water-from-Lunar-Regolith> lsi:estInvestmentCost "10000"^^xsd:integer .
+<http://lunarsettlementindex.org/display/LSI/Microwaving-Water-from-Lunar-Regolith> lsi:citation "Citations:Edwin Ethridge&nbsp;and William Kaukler,&nbsp;&ldquo;Microwave Extraction of Water from Lunar RegolithSimulant,&rdquo; STAIF 2007,&nbsp;&nbsp;February 2007, Albuquerque, NMMicrowave Extraction of Water from Lunar Regolith Simulant&nbsp;&nbsp;
+
+                
+        
+    
+        " .
+<http://lunarsettlementindex.org/display/LSI/Resource-Prospector> dc:title "Resource Prospector" .
+<http://lunarsettlementindex.org/display/~tmori> prov:hadRole lsi:author .
+<http://lunarsettlementindex.org/display/LSI/Resource-Prospector> lsi:lastmodified "2016-08-22T00:00:00Z"^^xsd:dateTime . 
+<http://lunarsettlementindex.org/display/LSI/Resource-Prospector> rdfs:comment ">DescriptionResource ProspectorNational Aeronautics and Space AdministrationTargeted for launch in the early&nbsp;2020s,&nbsp;NASA's Resource Prospector mission aims&nbsp;to locate elements from a lunar polar region. The rover is designed to excavate volatiles such as hydrogen, oxygen and water from the moon.1The rover utilize its Near Infrared Volatiles Spectrometer System (NIRVSS) and the&nbsp;Neutron Spectrometer System (NSS) to sense buried hydrogen (e.g., hydrogen in the form of water).2 Once the rover finds an appropriate location, it&nbsp;will drill and extract samples of the lunar regolith from as deep as one meter below the surface. The sample will be deposited into the&nbsp;Oxygen and Volatile Extraction Node (OVEN), where the sample will be heated in a sealed chamber, and extract oxygen and hydrogen from the regolith sample. Volatiles evolved from the OVEN will then be analyzed by the Lunar Advanced Volatile Analysis (LAVA)&nbsp;that contains a gas chromatograph (GC) and mass spectrometer (MS) subsystem to determine&nbsp;the type and quantity of elements and compounds contained in the lunar regolith.&nbsp;
+
+    
+&nbsp;&nbsp;" .
+<http://lunarsettlementindex.org/display/LSI/Resource-Prospector>  lsi:currentPlayer "National Aeronautics and Space Administration" .
+<http://lunarsettlementindex.org/display/LSI/Resource-Prospector> lsi:progressStatus "Research: Ongoing" .
+<http://lunarsettlementindex.org/display/LSI/Resource-Prospector> lsi:estInvestmentCost "1000000"^^xsd:integer .
+<http://lunarsettlementindex.org/display/LSI/Resource-Prospector> lsi:estTimeToMaturity "4"^^xsd:integer .
+
+<http://lunarsettlementindex.org/display/LSI/Resource-Prospector> lsi:citation "Citations:&quot;Resource Prospector.&quot;&nbsp;NASA. NASA, n.d. Web. 19 Aug. 2016.https://www.nasa.gov/resource-prospectorMahoney, Erin. &quot;Resource Prospector 2015 Field Testing Complete.&quot;&nbsp;NASA. NASA, 29 Sept. 2015. Web. 19 Aug. 2016.https://www.nasa.gov/feature/resource-prospector-2015-field-testing-complete&nbsp;&nbsp;
+
+                
+        
+    
+        " .
+<http://lunarsettlementindex.org/display/LSI/Lava-Tubes> dc:title "Lava Tubes" .
+<http://lunarsettlementindex.org/display/~tmori> prov:hadRole lsi:author .
+<http://lunarsettlementindex.org/display/LSI/Lava-Tubes> lsi:lastmodified "2016-08-19T00:00:00Z"^^xsd:dateTime . 
+<http://lunarsettlementindex.org/display/LSI/Lava-Tubes> rdfs:comment ">DescriptionNatural caverns occur on the moon in the form of &lsquo;lava tubes&rsquo;, which are the drained conduits of underground lava rivers.1&nbsp;The exact dimensions of these lava tubes are yet to be investigated, but researchers estimate their widths to be tens to hundreds of meters, and the upper layer to be more than 10 meters thick.Consequently, lava tubes interiors are expected to provide naturally protected environment from micrometeorites, cosmic rays and the extreme temperature differences between lunar day (~ 100 degrees C) and night (~ &ndash;173 degrees C).&nbsp;&quot;Skylight&quot; entrance in the Sea of Tranquility (8.34&deg;N, 33.22&deg;W)NASA/GSFC/Arizona State UniversityTwo of the Google Lunar Xprize teams, Team HAKUTO and Astrobotic Technology Inc. are planning to explore a pit located in Lacus Mortis (44.96&deg;N, &nbsp;25.61&deg;E).3" .
+<http://lunarsettlementindex.org/display/LSI/Lava-Tubes>  lsi:currentPlayer "ispace TechnologiesAstrobotic Technology" .
+<http://lunarsettlementindex.org/display/LSI/Lava-Tubes> lsi:progressStatus "Research: Ongoing" .
+<http://lunarsettlementindex.org/display/LSI/Lava-Tubes> lsi:estInvestmentCost "1000000"^^xsd:integer .
+<http://lunarsettlementindex.org/display/LSI/Lava-Tubes> lsi:citation "Citations:&quot;Marius Hills Pit Offers Potential Location for Lunar Base.&quot; Solar System Exploration Research Virtual Institute. N.p., n.d. Web. 19 Aug. 2016.Haruyama, J., et al. (2009),&nbsp;Possible lunar lava tube skylight observed by SELENE cameras,Geophys. Res. Lett.,&nbsp;36, L21206, doi:10.1029/2009GL040635.Possible lunar lava tube skylight observed by SELENE camerasHong IS, Yi Y, Yu J, Haruyama J, 3D Modeling of Lacus Mortis Pit Crater with Presumed Interior Tube Structure, J. Astron. Space Sci. 32, 113-120 (2015). http://dx.doi.org/10.5140/JASS.2015.32.2.1133D Modeling of Lacus Mortis Pit Crater with Presumed Interior Tube Structure&nbsp;&nbsp;
+
+                
+        
+    
+        " .
+<http://lunarsettlementindex.org/pages/viewpage.action?pageId=1212824> dc:title "Boron Nitride Nanotubes (BNNT)" .
+<http://lunarsettlementindex.org/display/~tmori> prov:hadRole lsi:author .
+<http://lunarsettlementindex.org/pages/viewpage.action?pageId=1212824> lsi:lastmodified "2016-08-19T00:00:00Z"^^xsd:dateTime . 
+<http://lunarsettlementindex.org/pages/viewpage.action?pageId=1212824> rdfs:comment ">DescriptionBoron Nitride Nanotubes (BNNT) are made of carbon, boron and nitrogen that offer game changing properties including neutron radiation shielding, piezoelectricity, thermal oxidative stability, mechanical strength, and toughness.1However, recent analysis shows that BNNT alone cannot outperform the&nbsp;state-of-the-art polyethylene. The challenge is to investigate the production of hydrogenated BNNTs for enhanced protection against Galactic Cosmic Rays.2" .
+<http://lunarsettlementindex.org/pages/viewpage.action?pageId=1212824>  lsi:currentPlayer "BNNT, LLCTekna Plasma Systems Inc.NanoIntegris Inc." .
+<http://lunarsettlementindex.org/pages/viewpage.action?pageId=1212824> lsi:progressStatus "Commercial: Start-up" .
+<http://lunarsettlementindex.org/pages/viewpage.action?pageId=1212824> lsi:estInvestmentCost "100000"^^xsd:integer .
+<http://lunarsettlementindex.org/pages/viewpage.action?pageId=1212824> lsi:citation "Citations:Frazier, Sarah. &quot;Real Martians: How to Protect Astronauts from Space Radiation on Mars.&quot;&nbsp;NASA. NASA, 30 Sept. 2015. Web. 4 July 2016.Amanda L. Tiano&nbsp;; Cheol Park&nbsp;; Joseph W. Lee&nbsp;; Hoa H. Luong&nbsp;; Luke J. Gibbons, et al.&quot; Boron nitride nanotube: synthesis and applications &quot;,&nbsp;Proc. SPIE&nbsp;9060, Nanosensors, Biosensors, and Info-Tech Sensors and Systems 2014, 906006 (April 16, 2014); doi:10.1117/12.2045396;&nbsp;http://dx.doi.org/10.1117/12.2045396Boron nitride nanotube: synthesis and applications&nbsp;&nbsp;&nbsp;
+
+                
+        
+    
+        " .
+<http://lunarsettlementindex.org/display/LSI/Lunar-Regolith> dc:title "Lunar Regolith" .
+<http://lunarsettlementindex.org/display/~tmori> prov:hadRole lsi:author .
+<http://lunarsettlementindex.org/display/LSI/Lunar-Regolith> lsi:lastmodified "2016-08-23T00:00:00Z"^^xsd:dateTime . 
+<http://lunarsettlementindex.org/display/LSI/Lunar-Regolith> rdfs:comment ">Description&nbsp;" .
+<http://lunarsettlementindex.org/display/LSI/Lunar-Regolith>  lsi:currentPlayer "&nbsp;" .
+<http://lunarsettlementindex.org/display/LSI/Lunar-Regolith> lsi:progressStatus "Research: Ongoing" .
+<http://lunarsettlementindex.org/display/LSI/Lunar-Regolith> lsi:estInvestmentCost "5000000"^^xsd:integer .
+<http://lunarsettlementindex.org/display/LSI/Lunar-Regolith> lsi:citation "Citations:J. Miller, L. Taylor, C. Zeitlin, L. Heilbronn, S. Guetersloh, M. DiGiuseppe, Y. Iwata, T. Murakami, Lunar soil as shielding against space radiation, Radiation Measurements, Volume 44, Issue 2, February 2009, Pages 163-167, ISSN 1350-4487, http://dx.doi.org/10.1016/j.radmeas.2009.01.010.Lunar soil as shielding against space radiationTai T. Pham, Mohamed S. El-Genk, Dose estimates in a lunar shelter with regolith shielding, Acta Astronautica, Volume 64, Issues 7&ndash;8, April&ndash;May 2009, Pages 697-713, ISSN 0094-5765, http://dx.doi.org/10.1016/j.actaastro.2008.12.002.&nbsp;&nbsp;
+
+                
+        
+    
+        " .

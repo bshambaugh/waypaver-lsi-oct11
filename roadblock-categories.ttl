@@ -1,0 +1,225 @@
+<http://lunarsettlementindex.org/display/LSI/Biological+Support> dc:title "Biological Support" .
+<http://lunarsettlementindex.org/display/~admin> prov:hadRole lsi:author .
+<http://lunarsettlementindex.org/display/LSI/Biological+Support> lsi:lastmodified "2016-05-09"^^xsd:dateTime . 
+<http://lunarsettlementindex.org/display/LSI/Biological+Support> rdfs:comment "" .
+<http://lunarsettlementindex.org/display/LSI/Biological+Support> lsi:roadblock <http://lunarsettlementindex.org/display/LSI/No+Closed+Loop+Water+Recycling+System> .
+<http://lunarsettlementindex.org/display/LSI/No+Closed+Loop+Water+Recycling+System> dc:title "No Closed Loop Water Recycling System" .
+<http://lunarsettlementindex.org/label/biological-support> dc:title "biological-support" .
+<http://lunarsettlementindex.org/display/LSI/No+Closed+Loop+Water+Recycling+System> lsi:label <http://lunarsettlementindex.org/label/biological-support> .
+<http://lunarsettlementindex.org/display/LSI/Biological+Support> lsi:roadblock <http://lunarsettlementindex.org/display/LSI/Food+Growing+Methods> .
+<http://lunarsettlementindex.org/display/LSI/Food+Growing+Methods> dc:title "Food Growing Methods" .
+<http://lunarsettlementindex.org/label/biological-support> dc:title "biological-support" .
+<http://lunarsettlementindex.org/display/LSI/Food+Growing+Methods> lsi:label <http://lunarsettlementindex.org/label/biological-support> .
+<http://lunarsettlementindex.org/label/habitation-infrastructure> dc:title "habitation-infrastructure" .
+<http://lunarsettlementindex.org/display/LSI/Food+Growing+Methods> lsi:label <http://lunarsettlementindex.org/label/habitation-infrastructure> .
+<http://lunarsettlementindex.org/display/LSI/Biological+Support> lsi:roadblock <http://lunarsettlementindex.org/display/LSI/Lack+of+In-Situ+Nutrition+Capabilities> .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+In-Situ+Nutrition+Capabilities> dc:title "Lack of In-Situ Nutrition Capabilities" .
+<http://lunarsettlementindex.org/label/biological-support> dc:title "biological-support" .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+In-Situ+Nutrition+Capabilities> lsi:label <http://lunarsettlementindex.org/label/biological-support> .
+<http://lunarsettlementindex.org/label/habitation-infrastructure> dc:title "habitation-infrastructure" .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+In-Situ+Nutrition+Capabilities> lsi:label <http://lunarsettlementindex.org/label/habitation-infrastructure> .
+<http://lunarsettlementindex.org/display/LSI/Biological+Support> lsi:roadblock <http://lunarsettlementindex.org/display/LSI/Lack+of+Ideal+Recycling+System+for+Human+Waste> .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Ideal+Recycling+System+for+Human+Waste> dc:title "Lack of Ideal Recycling System for Human Waste" .
+<http://lunarsettlementindex.org/label/biological-support> dc:title "biological-support" .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Ideal+Recycling+System+for+Human+Waste> lsi:label <http://lunarsettlementindex.org/label/biological-support> .
+<http://lunarsettlementindex.org/label/habitation-infrastructure> dc:title "habitation-infrastructure" .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Ideal+Recycling+System+for+Human+Waste> lsi:label <http://lunarsettlementindex.org/label/habitation-infrastructure> .
+<http://lunarsettlementindex.org/display/LSI/Biological+Support> lsi:roadblock <http://lunarsettlementindex.org/display/LSI/Human+Health+Risk+of+Long-term+Low+Gravity> .
+<http://lunarsettlementindex.org/display/LSI/Human+Health+Risk+of+Long-term+Low+Gravity> dc:title "Human Health Risk of Long-term Low Gravity" .
+<http://lunarsettlementindex.org/label/biological-support> dc:title "biological-support" .
+<http://lunarsettlementindex.org/display/LSI/Human+Health+Risk+of+Long-term+Low+Gravity> lsi:label <http://lunarsettlementindex.org/label/biological-support> .
+<http://lunarsettlementindex.org/label/lunar-environment> dc:title "lunar-environment" .
+<http://lunarsettlementindex.org/display/LSI/Human+Health+Risk+of+Long-term+Low+Gravity> lsi:label <http://lunarsettlementindex.org/label/lunar-environment> .
+<http://lunarsettlementindex.org/display/LSI/Biological+Support> lsi:label <http://lunarsettlementindex.org/label/biological-support> .
+<http://lunarsettlementindex.org/label/biological-support> dc:title "biological-support" .
+<http://lunarsettlementindex.org/display/LSI/Biological+Support> lsi:label <http://lunarsettlementindex.org/label/biological-support> .
+<http://lunarsettlementindex.org/label/biological-support> dc:title "biological-support" .
+<http://lunarsettlementindex.org/display/LSI/Biological+Support> lsi:label <http://lunarsettlementindex.org/label/habitation-infrastructure> .
+<http://lunarsettlementindex.org/label/habitation-infrastructure> dc:title "habitation-infrastructure" .
+<http://lunarsettlementindex.org/display/LSI/Biological+Support> lsi:label <http://lunarsettlementindex.org/label/biological-support> .
+<http://lunarsettlementindex.org/label/biological-support> dc:title "biological-support" .
+<http://lunarsettlementindex.org/display/LSI/Biological+Support> lsi:label <http://lunarsettlementindex.org/label/habitation-infrastructure> .
+<http://lunarsettlementindex.org/label/habitation-infrastructure> dc:title "habitation-infrastructure" .
+<http://lunarsettlementindex.org/display/LSI/Biological+Support> lsi:label <http://lunarsettlementindex.org/label/biological-support> .
+<http://lunarsettlementindex.org/label/biological-support> dc:title "biological-support" .
+<http://lunarsettlementindex.org/display/LSI/Biological+Support> lsi:label <http://lunarsettlementindex.org/label/habitation-infrastructure> .
+<http://lunarsettlementindex.org/label/habitation-infrastructure> dc:title "habitation-infrastructure" .
+<http://lunarsettlementindex.org/display/LSI/Biological+Support> lsi:label <http://lunarsettlementindex.org/label/biological-support> .
+<http://lunarsettlementindex.org/label/biological-support> dc:title "biological-support" .
+<http://lunarsettlementindex.org/display/LSI/Biological+Support> lsi:label <http://lunarsettlementindex.org/label/lunar-environment> .
+<http://lunarsettlementindex.org/label/lunar-environment> dc:title "lunar-environment" .
+<http://lunarsettlementindex.org/display/LSI/Communications> dc:title "Communications" .
+<http://lunarsettlementindex.org/display/~admin> prov:hadRole lsi:author .
+<http://lunarsettlementindex.org/display/LSI/Communications> lsi:lastmodified "2016-05-09"^^xsd:dateTime . 
+<http://lunarsettlementindex.org/display/LSI/Communications> rdfs:comment "" .
+<http://lunarsettlementindex.org/display/LSI/Communications> lsi:roadblock <http://lunarsettlementindex.org/display/LSI/Limited+Non+Line-of-Sight+Comm+Capability> .
+<http://lunarsettlementindex.org/display/LSI/Limited+Non+Line-of-Sight+Comm+Capability> dc:title "Limited Non Line-of-Sight Comm Capability" .
+<http://lunarsettlementindex.org/label/communications> dc:title "communications" .
+<http://lunarsettlementindex.org/display/LSI/Limited+Non+Line-of-Sight+Comm+Capability> lsi:label <http://lunarsettlementindex.org/label/communications> .
+<http://lunarsettlementindex.org/display/LSI/Communications> lsi:roadblock <http://lunarsettlementindex.org/display/LSI/No+Infrastructure+for+Uninterrupted+Communication+to+Earth> .
+<http://lunarsettlementindex.org/display/LSI/No+Infrastructure+for+Uninterrupted+Communication+to+Earth> dc:title "No Infrastructure for Uninterrupted Communication to Earth" .
+<http://lunarsettlementindex.org/label/communications> dc:title "communications" .
+<http://lunarsettlementindex.org/display/LSI/No+Infrastructure+for+Uninterrupted+Communication+to+Earth> lsi:label <http://lunarsettlementindex.org/label/communications> .
+<http://lunarsettlementindex.org/display/LSI/Communications> lsi:label <http://lunarsettlementindex.org/label/communications> .
+<http://lunarsettlementindex.org/label/communications> dc:title "communications" .
+<http://lunarsettlementindex.org/display/LSI/Communications> lsi:label <http://lunarsettlementindex.org/label/communications> .
+<http://lunarsettlementindex.org/label/communications> dc:title "communications" .
+<http://lunarsettlementindex.org/display/LSI/Habitation+and+Infrastructure> dc:title "Habitation and Infrastructure" .
+<http://lunarsettlementindex.org/display/~admin> prov:hadRole lsi:author .
+<http://lunarsettlementindex.org/display/LSI/Habitation+and+Infrastructure> lsi:lastmodified "2016-05-09"^^xsd:dateTime . 
+<http://lunarsettlementindex.org/display/LSI/Habitation+and+Infrastructure> rdfs:comment "" .
+<http://lunarsettlementindex.org/display/LSI/Habitation+and+Infrastructure> lsi:roadblock <http://lunarsettlementindex.org/display/LSI/Lack+of+Ideal+Settlement+Location> .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Ideal+Settlement+Location> dc:title "Lack of Ideal Settlement Location" .
+<http://lunarsettlementindex.org/label/habitation-infrastructure> dc:title "habitation-infrastructure" .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Ideal+Settlement+Location> lsi:label <http://lunarsettlementindex.org/label/habitation-infrastructure> .
+<http://lunarsettlementindex.org/display/LSI/Habitation+and+Infrastructure> lsi:roadblock <http://lunarsettlementindex.org/display/LSI/Unknown+Ideal+Habitat+Structure> .
+<http://lunarsettlementindex.org/display/LSI/Unknown+Ideal+Habitat+Structure> dc:title "Unknown Ideal Habitat Structure" .
+<http://lunarsettlementindex.org/label/habitation-infrastructure> dc:title "habitation-infrastructure" .
+<http://lunarsettlementindex.org/display/LSI/Unknown+Ideal+Habitat+Structure> lsi:label <http://lunarsettlementindex.org/label/habitation-infrastructure> .
+<http://lunarsettlementindex.org/label/lunar-environment> dc:title "lunar-environment" .
+<http://lunarsettlementindex.org/display/LSI/Unknown+Ideal+Habitat+Structure> lsi:label <http://lunarsettlementindex.org/label/lunar-environment> .
+<http://lunarsettlementindex.org/display/LSI/Habitation+and+Infrastructure> lsi:roadblock <http://lunarsettlementindex.org/display/LSI/Food+Growing+Methods> .
+<http://lunarsettlementindex.org/display/LSI/Food+Growing+Methods> dc:title "Food Growing Methods" .
+<http://lunarsettlementindex.org/label/biological-support> dc:title "biological-support" .
+<http://lunarsettlementindex.org/display/LSI/Food+Growing+Methods> lsi:label <http://lunarsettlementindex.org/label/biological-support> .
+<http://lunarsettlementindex.org/label/habitation-infrastructure> dc:title "habitation-infrastructure" .
+<http://lunarsettlementindex.org/display/LSI/Food+Growing+Methods> lsi:label <http://lunarsettlementindex.org/label/habitation-infrastructure> .
+<http://lunarsettlementindex.org/display/LSI/Habitation+and+Infrastructure> lsi:roadblock <http://lunarsettlementindex.org/display/LSI/Lack+of+In-Situ+Nutrition+Capabilities> .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+In-Situ+Nutrition+Capabilities> dc:title "Lack of In-Situ Nutrition Capabilities" .
+<http://lunarsettlementindex.org/label/biological-support> dc:title "biological-support" .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+In-Situ+Nutrition+Capabilities> lsi:label <http://lunarsettlementindex.org/label/biological-support> .
+<http://lunarsettlementindex.org/label/habitation-infrastructure> dc:title "habitation-infrastructure" .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+In-Situ+Nutrition+Capabilities> lsi:label <http://lunarsettlementindex.org/label/habitation-infrastructure> .
+<http://lunarsettlementindex.org/display/LSI/Habitation+and+Infrastructure> lsi:roadblock <http://lunarsettlementindex.org/display/LSI/Lack+of+Ideal+Recycling+System+for+Human+Waste> .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Ideal+Recycling+System+for+Human+Waste> dc:title "Lack of Ideal Recycling System for Human Waste" .
+<http://lunarsettlementindex.org/label/biological-support> dc:title "biological-support" .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Ideal+Recycling+System+for+Human+Waste> lsi:label <http://lunarsettlementindex.org/label/biological-support> .
+<http://lunarsettlementindex.org/label/habitation-infrastructure> dc:title "habitation-infrastructure" .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Ideal+Recycling+System+for+Human+Waste> lsi:label <http://lunarsettlementindex.org/label/habitation-infrastructure> .
+<http://lunarsettlementindex.org/display/LSI/Habitation+and+Infrastructure> lsi:label <http://lunarsettlementindex.org/label/habitation-infrastructure> .
+<http://lunarsettlementindex.org/label/habitation-infrastructure> dc:title "habitation-infrastructure" .
+<http://lunarsettlementindex.org/display/LSI/Habitation+and+Infrastructure> lsi:label <http://lunarsettlementindex.org/label/habitation-infrastructure> .
+<http://lunarsettlementindex.org/label/habitation-infrastructure> dc:title "habitation-infrastructure" .
+<http://lunarsettlementindex.org/display/LSI/Habitation+and+Infrastructure> lsi:label <http://lunarsettlementindex.org/label/lunar-environment> .
+<http://lunarsettlementindex.org/label/lunar-environment> dc:title "lunar-environment" .
+<http://lunarsettlementindex.org/display/LSI/Habitation+and+Infrastructure> lsi:label <http://lunarsettlementindex.org/label/biological-support> .
+<http://lunarsettlementindex.org/label/biological-support> dc:title "biological-support" .
+<http://lunarsettlementindex.org/display/LSI/Habitation+and+Infrastructure> lsi:label <http://lunarsettlementindex.org/label/habitation-infrastructure> .
+<http://lunarsettlementindex.org/label/habitation-infrastructure> dc:title "habitation-infrastructure" .
+<http://lunarsettlementindex.org/display/LSI/Habitation+and+Infrastructure> lsi:label <http://lunarsettlementindex.org/label/biological-support> .
+<http://lunarsettlementindex.org/label/biological-support> dc:title "biological-support" .
+<http://lunarsettlementindex.org/display/LSI/Habitation+and+Infrastructure> lsi:label <http://lunarsettlementindex.org/label/habitation-infrastructure> .
+<http://lunarsettlementindex.org/label/habitation-infrastructure> dc:title "habitation-infrastructure" .
+<http://lunarsettlementindex.org/display/LSI/Habitation+and+Infrastructure> lsi:label <http://lunarsettlementindex.org/label/biological-support> .
+<http://lunarsettlementindex.org/label/biological-support> dc:title "biological-support" .
+<http://lunarsettlementindex.org/display/LSI/Habitation+and+Infrastructure> lsi:label <http://lunarsettlementindex.org/label/habitation-infrastructure> .
+<http://lunarsettlementindex.org/label/habitation-infrastructure> dc:title "habitation-infrastructure" .
+<http://lunarsettlementindex.org/display/LSI/Lunar+Environment> dc:title "Lunar Environment" .
+<http://lunarsettlementindex.org/display/~sjennings> prov:hadRole lsi:author .
+<http://lunarsettlementindex.org/display/~admin> prov:hadRole lsi:author .
+<http://lunarsettlementindex.org/display/LSI/Lunar+Environment> lsi:lastmodified "2016-05-11"^^xsd:dateTime . 
+<http://lunarsettlementindex.org/display/LSI/Lunar+Environment> rdfs:comment "" .
+<http://lunarsettlementindex.org/display/LSI/Lunar+Environment> lsi:roadblock <http://lunarsettlementindex.org/display/LSI/Negative+Effects+of+Radiation+on+Life> .
+<http://lunarsettlementindex.org/display/LSI/Negative+Effects+of+Radiation+on+Life> dc:title "Negative Effects of Radiation on Life" .
+<http://lunarsettlementindex.org/label/lunar-environment> dc:title "lunar-environment" .
+<http://lunarsettlementindex.org/display/LSI/Negative+Effects+of+Radiation+on+Life> lsi:label <http://lunarsettlementindex.org/label/lunar-environment> .
+<http://lunarsettlementindex.org/display/LSI/Lunar+Environment> lsi:roadblock <http://lunarsettlementindex.org/display/LSI/Negative+Effects+of+Radiation+on+Electronics> .
+<http://lunarsettlementindex.org/display/LSI/Negative+Effects+of+Radiation+on+Electronics> dc:title "Negative Effects of Radiation on Electronics" .
+<http://lunarsettlementindex.org/label/lunar-environment> dc:title "lunar-environment" .
+<http://lunarsettlementindex.org/display/LSI/Negative+Effects+of+Radiation+on+Electronics> lsi:label <http://lunarsettlementindex.org/label/lunar-environment> .
+<http://lunarsettlementindex.org/display/LSI/Lunar+Environment> lsi:roadblock <http://lunarsettlementindex.org/display/LSI/Unknown+Ideal+Habitat+Structure> .
+<http://lunarsettlementindex.org/display/LSI/Unknown+Ideal+Habitat+Structure> dc:title "Unknown Ideal Habitat Structure" .
+<http://lunarsettlementindex.org/label/habitation-infrastructure> dc:title "habitation-infrastructure" .
+<http://lunarsettlementindex.org/display/LSI/Unknown+Ideal+Habitat+Structure> lsi:label <http://lunarsettlementindex.org/label/habitation-infrastructure> .
+<http://lunarsettlementindex.org/label/lunar-environment> dc:title "lunar-environment" .
+<http://lunarsettlementindex.org/display/LSI/Unknown+Ideal+Habitat+Structure> lsi:label <http://lunarsettlementindex.org/label/lunar-environment> .
+<http://lunarsettlementindex.org/display/LSI/Lunar+Environment> lsi:roadblock <http://lunarsettlementindex.org/display/LSI/Lack+of+Human+Mobility+on+Lunar+Surface> .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Human+Mobility+on+Lunar+Surface> dc:title "Lack of Human Mobility on Lunar Surface" .
+<http://lunarsettlementindex.org/label/lunar-environment> dc:title "lunar-environment" .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Human+Mobility+on+Lunar+Surface> lsi:label <http://lunarsettlementindex.org/label/lunar-environment> .
+<http://lunarsettlementindex.org/label/transportation> dc:title "transportation" .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Human+Mobility+on+Lunar+Surface> lsi:label <http://lunarsettlementindex.org/label/transportation> .
+<http://lunarsettlementindex.org/display/LSI/Lunar+Environment> lsi:roadblock <http://lunarsettlementindex.org/display/LSI/Lack+of+Water+Extraction+Technology> .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Water+Extraction+Technology> dc:title "Lack of Water Extraction Technology" .
+<http://lunarsettlementindex.org/label/resources> dc:title "resources" .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Water+Extraction+Technology> lsi:label <http://lunarsettlementindex.org/label/resources> .
+<http://lunarsettlementindex.org/label/lunar-environment> dc:title "lunar-environment" .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Water+Extraction+Technology> lsi:label <http://lunarsettlementindex.org/label/lunar-environment> .
+<http://lunarsettlementindex.org/display/LSI/Lunar+Environment> lsi:roadblock <http://lunarsettlementindex.org/display/LSI/Human+Health+Risk+of+Long-term+Low+Gravity> .
+<http://lunarsettlementindex.org/display/LSI/Human+Health+Risk+of+Long-term+Low+Gravity> dc:title "Human Health Risk of Long-term Low Gravity" .
+<http://lunarsettlementindex.org/label/biological-support> dc:title "biological-support" .
+<http://lunarsettlementindex.org/display/LSI/Human+Health+Risk+of+Long-term+Low+Gravity> lsi:label <http://lunarsettlementindex.org/label/biological-support> .
+<http://lunarsettlementindex.org/label/lunar-environment> dc:title "lunar-environment" .
+<http://lunarsettlementindex.org/display/LSI/Human+Health+Risk+of+Long-term+Low+Gravity> lsi:label <http://lunarsettlementindex.org/label/lunar-environment> .
+<http://lunarsettlementindex.org/display/LSI/Lunar+Environment> lsi:label <http://lunarsettlementindex.org/label/lunar-environment> .
+<http://lunarsettlementindex.org/label/lunar-environment> dc:title "lunar-environment" .
+<http://lunarsettlementindex.org/display/LSI/Lunar+Environment> lsi:label <http://lunarsettlementindex.org/label/lunar-environment> .
+<http://lunarsettlementindex.org/label/lunar-environment> dc:title "lunar-environment" .
+<http://lunarsettlementindex.org/display/LSI/Lunar+Environment> lsi:label <http://lunarsettlementindex.org/label/habitation-infrastructure> .
+<http://lunarsettlementindex.org/label/habitation-infrastructure> dc:title "habitation-infrastructure" .
+<http://lunarsettlementindex.org/display/LSI/Lunar+Environment> lsi:label <http://lunarsettlementindex.org/label/lunar-environment> .
+<http://lunarsettlementindex.org/label/lunar-environment> dc:title "lunar-environment" .
+<http://lunarsettlementindex.org/display/LSI/Lunar+Environment> lsi:label <http://lunarsettlementindex.org/label/lunar-environment> .
+<http://lunarsettlementindex.org/label/lunar-environment> dc:title "lunar-environment" .
+<http://lunarsettlementindex.org/display/LSI/Lunar+Environment> lsi:label <http://lunarsettlementindex.org/label/transportation> .
+<http://lunarsettlementindex.org/label/transportation> dc:title "transportation" .
+<http://lunarsettlementindex.org/display/LSI/Lunar+Environment> lsi:label <http://lunarsettlementindex.org/label/resources> .
+<http://lunarsettlementindex.org/label/resources> dc:title "resources" .
+<http://lunarsettlementindex.org/display/LSI/Lunar+Environment> lsi:label <http://lunarsettlementindex.org/label/lunar-environment> .
+<http://lunarsettlementindex.org/label/lunar-environment> dc:title "lunar-environment" .
+<http://lunarsettlementindex.org/display/LSI/Lunar+Environment> lsi:label <http://lunarsettlementindex.org/label/biological-support> .
+<http://lunarsettlementindex.org/label/biological-support> dc:title "biological-support" .
+<http://lunarsettlementindex.org/display/LSI/Lunar+Environment> lsi:label <http://lunarsettlementindex.org/label/lunar-environment> .
+<http://lunarsettlementindex.org/label/lunar-environment> dc:title "lunar-environment" .
+<http://lunarsettlementindex.org/display/LSI/Resource%2C+Acquisition%2C+Processing%2C+and+Storage> dc:title "Resource, Acquisition, Processing, and Storage" .
+<http://lunarsettlementindex.org/display/~admin> prov:hadRole lsi:author .
+<http://lunarsettlementindex.org/display/LSI/Resource%2C+Acquisition%2C+Processing%2C+and+Storage> lsi:lastmodified "2016-05-09"^^xsd:dateTime . 
+<http://lunarsettlementindex.org/display/LSI/Resource%2C+Acquisition%2C+Processing%2C+and+Storage> rdfs:comment "" .
+<http://lunarsettlementindex.org/display/LSI/Resource%2C+Acquisition%2C+Processing%2C+and+Storage> lsi:roadblock <http://lunarsettlementindex.org/display/LSI/Limited+Energy+Storage+Capability> .
+<http://lunarsettlementindex.org/display/LSI/Limited+Energy+Storage+Capability> dc:title "Limited Energy Storage Capability" .
+<http://lunarsettlementindex.org/label/resources> dc:title "resources" .
+<http://lunarsettlementindex.org/display/LSI/Limited+Energy+Storage+Capability> lsi:label <http://lunarsettlementindex.org/label/resources> .
+<http://lunarsettlementindex.org/display/LSI/Resource%2C+Acquisition%2C+Processing%2C+and+Storage> lsi:roadblock <http://lunarsettlementindex.org/display/LSI/No+Ideal+Energy+Generation+Technology> .
+<http://lunarsettlementindex.org/display/LSI/No+Ideal+Energy+Generation+Technology> dc:title "No Ideal Energy Generation Technology" .
+<http://lunarsettlementindex.org/label/resources> dc:title "resources" .
+<http://lunarsettlementindex.org/display/LSI/No+Ideal+Energy+Generation+Technology> lsi:label <http://lunarsettlementindex.org/label/resources> .
+<http://lunarsettlementindex.org/display/LSI/Resource%2C+Acquisition%2C+Processing%2C+and+Storage> lsi:roadblock <http://lunarsettlementindex.org/display/LSI/Lack+of+Water+Extraction+Technology> .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Water+Extraction+Technology> dc:title "Lack of Water Extraction Technology" .
+<http://lunarsettlementindex.org/label/resources> dc:title "resources" .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Water+Extraction+Technology> lsi:label <http://lunarsettlementindex.org/label/resources> .
+<http://lunarsettlementindex.org/label/lunar-environment> dc:title "lunar-environment" .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Water+Extraction+Technology> lsi:label <http://lunarsettlementindex.org/label/lunar-environment> .
+<http://lunarsettlementindex.org/display/LSI/Resource%2C+Acquisition%2C+Processing%2C+and+Storage> lsi:label <http://lunarsettlementindex.org/label/resources> .
+<http://lunarsettlementindex.org/label/resources> dc:title "resources" .
+<http://lunarsettlementindex.org/display/LSI/Resource%2C+Acquisition%2C+Processing%2C+and+Storage> lsi:label <http://lunarsettlementindex.org/label/resources> .
+<http://lunarsettlementindex.org/label/resources> dc:title "resources" .
+<http://lunarsettlementindex.org/display/LSI/Resource%2C+Acquisition%2C+Processing%2C+and+Storage> lsi:label <http://lunarsettlementindex.org/label/resources> .
+<http://lunarsettlementindex.org/label/resources> dc:title "resources" .
+<http://lunarsettlementindex.org/display/LSI/Resource%2C+Acquisition%2C+Processing%2C+and+Storage> lsi:label <http://lunarsettlementindex.org/label/lunar-environment> .
+<http://lunarsettlementindex.org/label/lunar-environment> dc:title "lunar-environment" .
+<http://lunarsettlementindex.org/display/LSI/Transportation%2C+Mobility%2C+and+Navigation> dc:title "Transportation, Mobility, and Navigation" .
+<http://lunarsettlementindex.org/display/~admin> prov:hadRole lsi:author .
+<http://lunarsettlementindex.org/display/LSI/Transportation%2C+Mobility%2C+and+Navigation> lsi:lastmodified "2016-05-09"^^xsd:dateTime . 
+<http://lunarsettlementindex.org/display/LSI/Transportation%2C+Mobility%2C+and+Navigation> rdfs:comment "" .
+<http://lunarsettlementindex.org/display/LSI/Transportation%2C+Mobility%2C+and+Navigation> lsi:roadblock <http://lunarsettlementindex.org/display/LSI/No+Mature+Entry%2C+Descent%2C+and+Landing+Capability> .
+<http://lunarsettlementindex.org/display/LSI/No+Mature+Entry%2C+Descent%2C+and+Landing+Capability> dc:title "No Mature Entry, Descent, and Landing Capability" .
+<http://lunarsettlementindex.org/label/transportation> dc:title "transportation" .
+<http://lunarsettlementindex.org/display/LSI/No+Mature+Entry%2C+Descent%2C+and+Landing+Capability> lsi:label <http://lunarsettlementindex.org/label/transportation> .
+<http://lunarsettlementindex.org/display/LSI/Transportation%2C+Mobility%2C+and+Navigation> lsi:roadblock <http://lunarsettlementindex.org/display/LSI/Limited+Access+to+Lunar+Orbit+from+Earth> .
+<http://lunarsettlementindex.org/display/LSI/Limited+Access+to+Lunar+Orbit+from+Earth> dc:title "Limited Access to Lunar Orbit from Earth" .
+<http://lunarsettlementindex.org/label/transportation> dc:title "transportation" .
+<http://lunarsettlementindex.org/display/LSI/Limited+Access+to+Lunar+Orbit+from+Earth> lsi:label <http://lunarsettlementindex.org/label/transportation> .
+<http://lunarsettlementindex.org/display/LSI/Transportation%2C+Mobility%2C+and+Navigation> lsi:roadblock <http://lunarsettlementindex.org/display/LSI/Lack+of+Human+Mobility+on+Lunar+Surface> .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Human+Mobility+on+Lunar+Surface> dc:title "Lack of Human Mobility on Lunar Surface" .
+<http://lunarsettlementindex.org/label/lunar-environment> dc:title "lunar-environment" .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Human+Mobility+on+Lunar+Surface> lsi:label <http://lunarsettlementindex.org/label/lunar-environment> .
+<http://lunarsettlementindex.org/label/transportation> dc:title "transportation" .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Human+Mobility+on+Lunar+Surface> lsi:label <http://lunarsettlementindex.org/label/transportation> .
+<http://lunarsettlementindex.org/display/LSI/Transportation%2C+Mobility%2C+and+Navigation> lsi:label <http://lunarsettlementindex.org/label/transportation> .
+<http://lunarsettlementindex.org/label/transportation> dc:title "transportation" .
+<http://lunarsettlementindex.org/display/LSI/Transportation%2C+Mobility%2C+and+Navigation> lsi:label <http://lunarsettlementindex.org/label/transportation> .
+<http://lunarsettlementindex.org/label/transportation> dc:title "transportation" .
+<http://lunarsettlementindex.org/display/LSI/Transportation%2C+Mobility%2C+and+Navigation> lsi:label <http://lunarsettlementindex.org/label/lunar-environment> .
+<http://lunarsettlementindex.org/label/lunar-environment> dc:title "lunar-environment" .
+<http://lunarsettlementindex.org/display/LSI/Transportation%2C+Mobility%2C+and+Navigation> lsi:label <http://lunarsettlementindex.org/label/transportation> .
+<http://lunarsettlementindex.org/label/transportation> dc:title "transportation" .

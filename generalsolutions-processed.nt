@@ -1,0 +1,148 @@
+<http://lunarsettlementindex.org/display/LSI/Bone-Mass-Monitoring> <http://purl.org/dc/terms/title> "Bone Mass Monitoring" .
+<http://lunarsettlementindex.org/display/~mclarkson> <http://www.w3.org/ns/prov#hadRole> <http://data.thespaceplan.com/ontologies/lsi#author> .
+<http://lunarsettlementindex.org/display/LSI/Bone-Mass-Monitoring> <http://data.thespaceplan.com/ontologies/lsi#lastmodified> "2016-06-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://lunarsettlementindex.org/display/LSI/Bone-Mass-Monitoring> <http://www.w3.org/2000/01/rdf-schema#comment> "Bone mass of astronauts degrades over the time spent in micro-gravity conditions. Being able to monitor these effects will enable astronauts to maintain their physique." .
+<http://lunarsettlementindex.org/display/LSI/Bone-Mass-Monitoring> <http://data.thespaceplan.com/ontologies/lsi#averageEstInvestmentCost> "0.0(investment cost pulled from children pages)" .
+<http://lunarsettlementindex.org/display/LSI/Bone-Mass-Monitoring> <http://data.thespaceplan.com/ontologies/lsi#averageEstTimetoMaturity> "0.0 (time to maturity pulled from children pages)" .
+<http://lunarsettlementindex.org/display/LSI/Bone-Mass-Monitoring> <http://data.thespaceplan.com/ontologies/lsi#commercialStatus> "Research" .
+<http://lunarsettlementindex.org/display/LSI/Bone-Mass-Monitoring> <http://data.thespaceplan.com/ontologies/lsi#relatedIndustriesFields> "Health and Medicine" .
+<http://lunarsettlementindex.org/display/LSI/Bone-Mass-Monitoring> <http://data.thespaceplan.com/ontologies/lsi#citation> "Citations:&nbsp;&nbsp;&nbsp;\n\n                \n        \n    \n        " .
+<http://lunarsettlementindex.org/display/LSI/Muscle-Mass-Monitoring> <http://purl.org/dc/terms/title> "Muscle Mass Monitoring" .
+<http://lunarsettlementindex.org/display/~mclarkson> <http://www.w3.org/ns/prov#hadRole> <http://data.thespaceplan.com/ontologies/lsi#author> .
+<http://lunarsettlementindex.org/display/LSI/Muscle-Mass-Monitoring> <http://data.thespaceplan.com/ontologies/lsi#lastmodified> "2016-07-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://lunarsettlementindex.org/display/LSI/Muscle-Mass-Monitoring> <http://www.w3.org/2000/01/rdf-schema#comment> "Muscle mass deteriorates over time in micro-gravity conditions and needs to be monitored to maintain a fitness routine to offset these effects. Too much muscle reduction can lead to health complication, especially upon return to Earth-like gravity." .
+<http://lunarsettlementindex.org/display/LSI/Muscle-Mass-Monitoring> <http://data.thespaceplan.com/ontologies/lsi#averageEstInvestmentCost> "0.0(investment cost pulled from children pages)" .
+<http://lunarsettlementindex.org/display/LSI/Muscle-Mass-Monitoring> <http://data.thespaceplan.com/ontologies/lsi#averageEstTimetoMaturity> "0.0 (time to maturity pulled from children pages)" .
+<http://lunarsettlementindex.org/display/LSI/Muscle-Mass-Monitoring> <http://data.thespaceplan.com/ontologies/lsi#commercialStatus> "Research" .
+<http://lunarsettlementindex.org/display/LSI/Muscle-Mass-Monitoring> <http://data.thespaceplan.com/ontologies/lsi#relatedIndustriesFields> "Health and Medicine" .
+<http://lunarsettlementindex.org/display/LSI/Muscle-Mass-Monitoring> <http://data.thespaceplan.com/ontologies/lsi#citation> "Citations:Salanova, M., G. Schiffl, B. P&uuml;ttmann, B. G. Schoser, and D. Blottner. &quot;Molecular Biomarkers Monitoring Human Skeletal Muscle Fibres and Microvasculature following Long-term Bed Rest with and without Countermeasures.&quot;&nbsp;J Anatomy Journal of Anatomy&nbsp;212.3 (2008): 306-18. Web.Molecular Biomarkers Muscle Fibers.pdf&nbsp;&nbsp;\n\n                \n        \n    \n        " .
+<http://lunarsettlementindex.org/display/LSI/Reproductive-Complications-Mitigation> <http://purl.org/dc/terms/title> "Reproductive Complications Mitigation" .
+<http://lunarsettlementindex.org/display/~mclarkson> <http://www.w3.org/ns/prov#hadRole> <http://data.thespaceplan.com/ontologies/lsi#author> .
+<http://lunarsettlementindex.org/display/LSI/Reproductive-Complications-Mitigation> <http://data.thespaceplan.com/ontologies/lsi#lastmodified> "2016-06-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://lunarsettlementindex.org/display/LSI/Reproductive-Complications-Mitigation> <http://www.w3.org/2000/01/rdf-schema#comment> "</span>" .
+<http://lunarsettlementindex.org/display/LSI/Reproductive-Complications-Mitigation> <http://data.thespaceplan.com/ontologies/lsi#averageEstInvestmentCost> "0.0(investment cost pulled from children pages)" .
+<http://lunarsettlementindex.org/display/LSI/Reproductive-Complications-Mitigation> <http://data.thespaceplan.com/ontologies/lsi#averageEstTimetoMaturity> "0.0 (time to maturity pulled from children pages)" .
+<http://lunarsettlementindex.org/display/LSI/Reproductive-Complications-Mitigation> <http://data.thespaceplan.com/ontologies/lsi#commercialStatus> "Research" .
+<http://lunarsettlementindex.org/display/LSI/Reproductive-Complications-Mitigation> <http://data.thespaceplan.com/ontologies/lsi#relatedIndustriesFields> "Health and Medicine" .
+<http://lunarsettlementindex.org/display/LSI/Reproductive-Complications-Mitigation> <http://data.thespaceplan.com/ontologies/lsi#citation> "Citations:&nbsp;&nbsp;&nbsp;\n\n                \n        \n    \n        " .
+<http://lunarsettlementindex.org/display/LSI/CO2-Air-Scrubbing> <http://purl.org/dc/terms/title> "CO2 Air Scrubbing" .
+<http://lunarsettlementindex.org/display/~mclarkson> <http://www.w3.org/ns/prov#hadRole> <http://data.thespaceplan.com/ontologies/lsi#author> .
+<http://lunarsettlementindex.org/display/LSI/CO2-Air-Scrubbing> <http://data.thespaceplan.com/ontologies/lsi#lastmodified> "2016-06-16T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://lunarsettlementindex.org/display/LSI/CO2-Air-Scrubbing> <http://www.w3.org/2000/01/rdf-schema#comment> "Humans expel out carbon dioxide after breathing in oxygen. If the CO2 is not removed and replaced, the levels can rise to lethal dosages and suffocate the human crew within the habitat. This can be done through purification or venting the CO2 in some way from the rest of the air in the habitat." .
+<http://lunarsettlementindex.org/display/LSI/CO2-Air-Scrubbing> <http://data.thespaceplan.com/ontologies/lsi#averageEstInvestmentCost> "0.0(investment cost pulled from children pages)" .
+<http://lunarsettlementindex.org/display/LSI/CO2-Air-Scrubbing> <http://data.thespaceplan.com/ontologies/lsi#averageEstTimetoMaturity> "0.0 (time to maturity pulled from children pages)" .
+<http://lunarsettlementindex.org/display/LSI/CO2-Air-Scrubbing> <http://data.thespaceplan.com/ontologies/lsi#commercialStatus> "Research" .
+<http://lunarsettlementindex.org/display/LSI/CO2-Air-Scrubbing> <http://data.thespaceplan.com/ontologies/lsi#relatedIndustriesFields> "Health and Medicine" .
+<http://lunarsettlementindex.org/display/LSI/CO2-Air-Scrubbing> <http://data.thespaceplan.com/ontologies/lsi#citation> "Citations:&nbsp;&nbsp;&nbsp;\n\n                \n        \n    \n        " .
+<http://lunarsettlementindex.org/display/LSI/Grey-Water-Waste-Recycling> <http://purl.org/dc/terms/title> "Grey-Water Waste Recycling" .
+<http://lunarsettlementindex.org/display/~mclarkson> <http://www.w3.org/ns/prov#hadRole> <http://data.thespaceplan.com/ontologies/lsi#author> .
+<http://lunarsettlementindex.org/display/LSI/Grey-Water-Waste-Recycling> <http://data.thespaceplan.com/ontologies/lsi#lastmodified> "2016-06-16T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://lunarsettlementindex.org/display/LSI/Grey-Water-Waste-Recycling> <http://www.w3.org/2000/01/rdf-schema#comment> "Liquid waste recycling will include not only waste from humans as a byproduct, but also water used in industrial ways such as food production or thermal management. Grey water refers to water that has not touched biohazardous materials (feces, blood, etc), such as that found in sinks, showers, and greenhouses." .
+<http://lunarsettlementindex.org/display/LSI/Grey-Water-Waste-Recycling> <http://data.thespaceplan.com/ontologies/lsi#averageEstInvestmentCost> "0.0(investment cost pulled from children pages)" .
+<http://lunarsettlementindex.org/display/LSI/Grey-Water-Waste-Recycling> <http://data.thespaceplan.com/ontologies/lsi#averageEstTimetoMaturity> "0.0 (time to maturity pulled from children pages)" .
+<http://lunarsettlementindex.org/display/LSI/Grey-Water-Waste-Recycling> <http://data.thespaceplan.com/ontologies/lsi#commercialStatus> "Long Term Commercial" .
+<http://lunarsettlementindex.org/display/LSI/Grey-Water-Waste-Recycling> <http://data.thespaceplan.com/ontologies/lsi#relatedIndustriesFields> "Health and Medicine" .
+<http://lunarsettlementindex.org/display/LSI/Grey-Water-Waste-Recycling> <http://data.thespaceplan.com/ontologies/lsi#citation> "Citations:&nbsp;&nbsp;&nbsp;\n\n                \n        \n    \n        " .
+<http://lunarsettlementindex.org/display/LSI/Solid-Waste-Recycling> <http://purl.org/dc/terms/title> "Solid Waste Recycling" .
+<http://lunarsettlementindex.org/display/~mclarkson> <http://www.w3.org/ns/prov#hadRole> <http://data.thespaceplan.com/ontologies/lsi#author> .
+<http://lunarsettlementindex.org/display/LSI/Solid-Waste-Recycling> <http://data.thespaceplan.com/ontologies/lsi#lastmodified> "2016-06-16T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://lunarsettlementindex.org/display/LSI/Solid-Waste-Recycling> <http://www.w3.org/2000/01/rdf-schema#comment> "Solid human waste can contain bacteria detrimental to human health, but it can also be repurposed for food growth with proper care. Solid waste must undergo different recycling methods than liquid waste, and must be kept separate from liquid waste so as to not contaminate water supplies." .
+<http://lunarsettlementindex.org/display/LSI/Solid-Waste-Recycling> <http://data.thespaceplan.com/ontologies/lsi#averageEstInvestmentCost> "0.0(investment cost pulled from children pages)" .
+<http://lunarsettlementindex.org/display/LSI/Solid-Waste-Recycling> <http://data.thespaceplan.com/ontologies/lsi#averageEstTimetoMaturity> "0.0 (time to maturity pulled from children pages)" .
+<http://lunarsettlementindex.org/display/LSI/Solid-Waste-Recycling> <http://data.thespaceplan.com/ontologies/lsi#commercialStatus> "Long Term Commercial" .
+<http://lunarsettlementindex.org/display/LSI/Solid-Waste-Recycling> <http://data.thespaceplan.com/ontologies/lsi#relatedIndustriesFields> "Health and Medicine" .
+<http://lunarsettlementindex.org/display/LSI/Solid-Waste-Recycling> <http://data.thespaceplan.com/ontologies/lsi#citation> "Citations:&nbsp;&nbsp;&nbsp;\n\n                \n        \n    \n        " .
+<http://lunarsettlementindex.org/display/LSI/Diet-Optimization> <http://purl.org/dc/terms/title> "Diet Optimization" .
+<http://lunarsettlementindex.org/display/~mclarkson> <http://www.w3.org/ns/prov#hadRole> <http://data.thespaceplan.com/ontologies/lsi#author> .
+<http://lunarsettlementindex.org/display/LSI/Diet-Optimization> <http://data.thespaceplan.com/ontologies/lsi#lastmodified> "2016-07-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://lunarsettlementindex.org/display/LSI/Diet-Optimization> <http://www.w3.org/2000/01/rdf-schema#comment> "Space-based nutrition not only has to be designed with the maximum number of calories available, but also be optimized in terms of water-footprint and included nutrients. Foods that can be grown in a station setting and easily prepared for meals are a bonus for psychological health reasons.&nbsp;Studies have shown that human health deteriorates when sustained on monotonous, flavorless, or effortless diets. Therefore, research has been put into meal preparation and variation that allows astronauts to participate in the creation of their meals as opposed to pulling them out of pre-packaged bags." .
+<http://lunarsettlementindex.org/display/LSI/Diet-Optimization> <http://data.thespaceplan.com/ontologies/lsi#averageEstInvestmentCost> "0.0(investment cost pulled from children pages)" .
+<http://lunarsettlementindex.org/display/LSI/Diet-Optimization> <http://data.thespaceplan.com/ontologies/lsi#averageEstTimetoMaturity> "0.0 (time to maturity pulled from children pages)" .
+<http://lunarsettlementindex.org/display/LSI/Diet-Optimization> <http://data.thespaceplan.com/ontologies/lsi#commercialStatus> "Research" .
+<http://lunarsettlementindex.org/display/LSI/Diet-Optimization> <http://data.thespaceplan.com/ontologies/lsi#relatedIndustriesFields> "Health and Medicine" .
+<http://lunarsettlementindex.org/display/LSI/Diet-Optimization> <http://data.thespaceplan.com/ontologies/lsi#citation> "Citations:Boyce, Brian. &quot;To Boldly Go Where No Food Has Gone Before.&quot;&nbsp;Journal of the American Dietetic Association&nbsp;111.1 (2011): 45-49. Web.Business of Dietics Journal.pdfPerchonok, Michele, and Charles Bourland. &quot;NASA Food Systems: Past, Present, and Future.&quot;&nbsp;Nutrition&nbsp;18.11 (2002): 913-20. Web.&nbsp;NASA Food Systems.pdf&nbsp;&nbsp;\n\n                \n        \n    \n        " .
+<http://lunarsettlementindex.org/display/LSI/Diet-Optimization> <http://data.thespaceplan.com/ontologies/lsi#specificSolution> <http://lunarsettlement.org/display/LSI/Diet-Psychology> .
+<http://lunarsettlement.org/display/LSI/Diet-Psychology> <http://purl.org/dc/terms/title> "Diet Psychology" .
+<http://lunarsettlementindex.org/display/LSI/Food-Growing-Methods> <http://purl.org/dc/terms/title> "Food Growing Methods" .
+<http://lunarsettlementindex.org/display/~mclarkson> <http://www.w3.org/ns/prov#hadRole> <http://data.thespaceplan.com/ontologies/lsi#author> .
+<http://lunarsettlementindex.org/display/LSI/Food-Growing-Methods> <http://data.thespaceplan.com/ontologies/lsi#lastmodified> "2016-06-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://lunarsettlementindex.org/display/LSI/Food-Growing-Methods> <http://www.w3.org/2000/01/rdf-schema#comment> "For independence and resource optimization, some or all of the astronauts' diet must be grown in-situ. Various forms have been proposed, from greenhouses to hydroponics, but there must also be optimization in the types of food grown to maximize caloric and nutrient output compared to water and energy input." .
+<http://lunarsettlementindex.org/display/LSI/Food-Growing-Methods> <http://data.thespaceplan.com/ontologies/lsi#averageEstInvestmentCost> "0.0(investment cost pulled from children pages)" .
+<http://lunarsettlementindex.org/display/LSI/Food-Growing-Methods> <http://data.thespaceplan.com/ontologies/lsi#averageEstTimetoMaturity> "0.0 (time to maturity pulled from children pages)" .
+<http://lunarsettlementindex.org/display/LSI/Food-Growing-Methods> <http://data.thespaceplan.com/ontologies/lsi#commercialStatus> "Research" .
+<http://lunarsettlementindex.org/display/LSI/Food-Growing-Methods> <http://data.thespaceplan.com/ontologies/lsi#relatedIndustriesFields> "Health and Medicine" .
+<http://lunarsettlementindex.org/display/LSI/Food-Growing-Methods> <http://data.thespaceplan.com/ontologies/lsi#label> <http://lunarsettlementindex.org/label/LSI/biological-support> .
+<http://lunarsettlementindex.org/label/LSI/biological-support> <http://purl.org/dc/terms/title> "biological-support" .
+<http://lunarsettlementindex.org/display/LSI/Food-Growing-Methods> <http://data.thespaceplan.com/ontologies/lsi#label> <http://lunarsettlementindex.org/label/LSI/habitation-infrastructure> .
+<http://lunarsettlementindex.org/label/LSI/habitation-infrastructure> <http://purl.org/dc/terms/title> "habitation-infrastructure" .
+<http://lunarsettlementindex.org/display/LSI/Food-Growing-Methods> <http://data.thespaceplan.com/ontologies/lsi#citation> "Citations:&nbsp;&nbsp;&nbsp;\n\n                \n        \n    \n        " .
+<http://lunarsettlementindex.org/display/LSI/Chemical-Extraction> <http://purl.org/dc/terms/title> "Chemical Extraction" .
+<http://lunarsettlementindex.org/display/~tmori> <http://www.w3.org/ns/prov#hadRole> <http://data.thespaceplan.com/ontologies/lsi#author> .
+<http://lunarsettlementindex.org/display/LSI/Chemical-Extraction> <http://data.thespaceplan.com/ontologies/lsi#lastmodified> "2016-07-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://lunarsettlementindex.org/display/LSI/Chemical-Extraction> <http://www.w3.org/2000/01/rdf-schema#comment> "Water can be extracted from lunar regolith through several chemical processes." .
+<http://lunarsettlementindex.org/display/LSI/Chemical-Extraction> <http://data.thespaceplan.com/ontologies/lsi#averageEstInvestmentCost> "0.0(investment cost pulled from children pages)" .
+<http://lunarsettlementindex.org/display/LSI/Chemical-Extraction> <http://data.thespaceplan.com/ontologies/lsi#averageEstTimetoMaturity> "0.0 (time to maturity pulled from children pages)" .
+<http://lunarsettlementindex.org/display/LSI/Chemical-Extraction> <http://data.thespaceplan.com/ontologies/lsi#commercialStatus> "Research" .
+<http://lunarsettlementindex.org/display/LSI/Chemical-Extraction> <http://data.thespaceplan.com/ontologies/lsi#relatedIndustriesFields> "Mining" .
+<http://lunarsettlementindex.org/display/LSI/Chemical-Extraction> <http://data.thespaceplan.com/ontologies/lsi#citation> "Citations:&nbsp;&nbsp;\n\n                \n        \n    \n        " .
+<http://lunarsettlementindex.org/display/LSI/Chemical-Extraction> <http://data.thespaceplan.com/ontologies/lsi#specificSolution> <http://lunarsettlement.org/display/LSI/Carbothermal-Regolith-Reduction> .
+<http://lunarsettlement.org/display/LSI/Carbothermal-Regolith-Reduction> <http://purl.org/dc/terms/title> "Carbothermal Regolith Reduction" .
+<http://lunarsettlementindex.org/display/LSI/Chemical-Extraction> <http://data.thespaceplan.com/ontologies/lsi#specificSolution> <http://lunarsettlement.org/display/LSI/Hydrogen-Reduction> .
+<http://lunarsettlement.org/display/LSI/Hydrogen-Reduction> <http://purl.org/dc/terms/title> "Hydrogen Reduction" .
+<http://lunarsettlementindex.org/display/LSI/Chemical-Extraction> <http://data.thespaceplan.com/ontologies/lsi#specificSolution> <http://lunarsettlement.org/display/LSI/Ionic-Liquids> .
+<http://lunarsettlement.org/display/LSI/Ionic-Liquids> <http://purl.org/dc/terms/title> "Ionic Liquids" .
+<http://lunarsettlementindex.org/display/LSI/Indirect-Extraction> <http://purl.org/dc/terms/title> "Indirect Extraction" .
+<http://lunarsettlementindex.org/display/~tmori> <http://www.w3.org/ns/prov#hadRole> <http://data.thespaceplan.com/ontologies/lsi#author> .
+<http://lunarsettlementindex.org/display/LSI/Indirect-Extraction> <http://data.thespaceplan.com/ontologies/lsi#lastmodified> "2016-07-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://lunarsettlementindex.org/display/LSI/Indirect-Extraction> <http://www.w3.org/2000/01/rdf-schema#comment> "Water contained within lunar regolith can be extracted indirectly via radiation." .
+<http://lunarsettlementindex.org/display/LSI/Indirect-Extraction> <http://data.thespaceplan.com/ontologies/lsi#averageEstInvestmentCost> "0.0(investment cost pulled from children pages)" .
+<http://lunarsettlementindex.org/display/LSI/Indirect-Extraction> <http://data.thespaceplan.com/ontologies/lsi#averageEstTimetoMaturity> "0.0 (time to maturity pulled from children pages)" .
+<http://lunarsettlementindex.org/display/LSI/Indirect-Extraction> <http://data.thespaceplan.com/ontologies/lsi#commercialStatus> "Research" .
+<http://lunarsettlementindex.org/display/LSI/Indirect-Extraction> <http://data.thespaceplan.com/ontologies/lsi#relatedIndustriesFields> "Mining" .
+<http://lunarsettlementindex.org/display/LSI/Indirect-Extraction> <http://data.thespaceplan.com/ontologies/lsi#citation> "Citations:&nbsp;&nbsp;&nbsp;\n\n                \n        \n    \n        " .
+<http://lunarsettlementindex.org/display/LSI/Indirect-Extraction> <http://data.thespaceplan.com/ontologies/lsi#specificSolution> <http://lunarsettlement.org/display/LSI/Microwaving-Water-from-Lunar-Regolith> .
+<http://lunarsettlement.org/display/LSI/Microwaving-Water-from-Lunar-Regolith> <http://purl.org/dc/terms/title> "Microwaving Water from Lunar Regolith" .
+<http://lunarsettlementindex.org/display/LSI/Indirect-Extraction> <http://data.thespaceplan.com/ontologies/lsi#specificSolution> <http://lunarsettlement.org/display/LSI/Resource-Prospector> .
+<http://lunarsettlement.org/display/LSI/Resource-Prospector> <http://purl.org/dc/terms/title> "Resource Prospector" .
+<http://lunarsettlementindex.org/display/LSI/Environmental-Protection> <http://purl.org/dc/terms/title> "Environmental Protection" .
+<http://lunarsettlementindex.org/display/~tmori> <http://www.w3.org/ns/prov#hadRole> <http://data.thespaceplan.com/ontologies/lsi#author> .
+<http://lunarsettlementindex.org/display/LSI/Environmental-Protection> <http://data.thespaceplan.com/ontologies/lsi#lastmodified> "2016-08-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://lunarsettlementindex.org/display/LSI/Environmental-Protection> <http://www.w3.org/2000/01/rdf-schema#comment> "Although there are almost no atmospheric protection on the Moon, some of the surface materials and terrains can be used to protect astronauts and electrical equipment from radiation." .
+<http://lunarsettlementindex.org/display/LSI/Environmental-Protection> <http://data.thespaceplan.com/ontologies/lsi#averageEstInvestmentCost> "0.0(investment cost pulled from children pages)" .
+<http://lunarsettlementindex.org/display/LSI/Environmental-Protection> <http://data.thespaceplan.com/ontologies/lsi#averageEstTimetoMaturity> "0.0 (time to maturity pulled from children pages)" .
+<http://lunarsettlementindex.org/display/LSI/Environmental-Protection> <http://data.thespaceplan.com/ontologies/lsi#commercialStatus> "Research" .
+<http://lunarsettlementindex.org/display/LSI/Environmental-Protection> <http://data.thespaceplan.com/ontologies/lsi#relatedIndustriesFields> "Mining" .
+<http://lunarsettlementindex.org/display/LSI/Environmental-Protection> <http://data.thespaceplan.com/ontologies/lsi#citation> "Citations:&nbsp;&nbsp;&nbsp;\n\n                \n        \n    \n        " .
+<http://lunarsettlementindex.org/display/LSI/Environmental-Protection> <http://data.thespaceplan.com/ontologies/lsi#specificSolution> <http://lunarsettlement.org/display/LSI/Lava-Tubes> .
+<http://lunarsettlement.org/display/LSI/Lava-Tubes> <http://purl.org/dc/terms/title> "Lava Tubes" .
+<http://lunarsettlementindex.org/display/LSI/Radiation-Shielding-Materials> <http://purl.org/dc/terms/title> "Radiation Shielding Materials" .
+<http://lunarsettlementindex.org/display/~tmori> <http://www.w3.org/ns/prov#hadRole> <http://data.thespaceplan.com/ontologies/lsi#author> .
+<http://lunarsettlementindex.org/display/LSI/Radiation-Shielding-Materials> <http://data.thespaceplan.com/ontologies/lsi#lastmodified> "2016-07-04T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://lunarsettlementindex.org/display/LSI/Radiation-Shielding-Materials> <http://www.w3.org/2000/01/rdf-schema#comment> "There are two main strategies to protect lunar inhabitants from incoming radiation: to increase mass of lunar modules or vehicles, or use efficient shielding materials." .
+<http://lunarsettlementindex.org/display/LSI/Radiation-Shielding-Materials> <http://data.thespaceplan.com/ontologies/lsi#averageEstInvestmentCost> "0.0(investment cost pulled from children pages)" .
+<http://lunarsettlementindex.org/display/LSI/Radiation-Shielding-Materials> <http://data.thespaceplan.com/ontologies/lsi#averageEstTimetoMaturity> "0.0 (time to maturity pulled from children pages)" .
+<http://lunarsettlementindex.org/display/LSI/Radiation-Shielding-Materials> <http://data.thespaceplan.com/ontologies/lsi#commercialStatus> "Near Term Commercial, Research" .
+<http://lunarsettlementindex.org/display/LSI/Radiation-Shielding-Materials> <http://data.thespaceplan.com/ontologies/lsi#relatedIndustriesFields> "Health and Medicine, Personal Electronics" .
+<http://lunarsettlementindex.org/display/LSI/Radiation-Shielding-Materials> <http://data.thespaceplan.com/ontologies/lsi#citation> "Citations:Frazier, Sarah. &quot;Real Martians: How to Protect Astronauts from Space Radiation on Mars.&quot;&nbsp;NASA. NASA, 30 Sept. 2015. Web. 4 July 2016.&nbsp;&nbsp;\n\n                \n        \n    \n        " .
+<http://lunarsettlementindex.org/display/LSI/Radiation-Shielding-Materials> <http://data.thespaceplan.com/ontologies/lsi#specificSolution> <http://lunarsettlement.org/pages/viewpage.action?pageId=1212824> .
+<http://lunarsettlement.org/pages/viewpage.action?pageId=1212824> <http://purl.org/dc/terms/title> "Boron Nitride Nanotubes (BNNT)" .
+<http://lunarsettlementindex.org/display/LSI/Radiation-Shielding-Materials> <http://data.thespaceplan.com/ontologies/lsi#specificSolution> <http://lunarsettlement.org/display/LSI/Lunar-Regolith> .
+<http://lunarsettlement.org/display/LSI/Lunar-Regolith> <http://purl.org/dc/terms/title> "Lunar Regolith" .
+<http://lunarsettlementindex.org/display/LSI/Mission-Optimization> <http://purl.org/dc/terms/title> "Mission Optimization" .
+<http://lunarsettlementindex.org/display/~ccrow> <http://www.w3.org/ns/prov#hadRole> <http://data.thespaceplan.com/ontologies/lsi#author> .
+<http://lunarsettlementindex.org/display/LSI/Mission-Optimization> <http://data.thespaceplan.com/ontologies/lsi#lastmodified> "2016-06-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://lunarsettlementindex.org/display/LSI/Mission-Optimization> <http://www.w3.org/2000/01/rdf-schema#comment> "The balancing of specific aspects of a transporting humans to the moon, including timing with solar activity, radiation shielding mass, configuration, propulsion, etc." .
+<http://lunarsettlementindex.org/display/LSI/Mission-Optimization> <http://data.thespaceplan.com/ontologies/lsi#averageEstInvestmentCost> "0.0(investment cost pulled from children pages)" .
+<http://lunarsettlementindex.org/display/LSI/Mission-Optimization> <http://data.thespaceplan.com/ontologies/lsi#averageEstTimetoMaturity> "0.0 (time to maturity pulled from children pages)" .
+<http://lunarsettlementindex.org/display/LSI/Mission-Optimization> <http://data.thespaceplan.com/ontologies/lsi#commercialStatus> "Long Term Commercial, Near Term Commercial, Research" .
+<http://lunarsettlementindex.org/display/LSI/Mission-Optimization> <http://data.thespaceplan.com/ontologies/lsi#relatedIndustriesFields> "Health and Medicine" .
+<http://lunarsettlementindex.org/display/LSI/Mission-Optimization> <http://data.thespaceplan.com/ontologies/lsi#citation> "Citations:&nbsp;&nbsp;&nbsp;Tripathi, Ram K., and J. E. Nealy, &quot;Lunar Radiation Risk Assessment and Shielding Design for Ionizing Space Radiation,&quot;\u00A0Aerospace Conference, (2008):\u00A01 - 11. PDF\u00A0\n\n                \n        \n    \n        " .
+<http://lunarsettlementindex.org/display/LSI/Structure-Materials> <http://purl.org/dc/terms/title> "Structure Materials" .
+<http://lunarsettlementindex.org/display/~ccrow> <http://www.w3.org/ns/prov#hadRole> <http://data.thespaceplan.com/ontologies/lsi#author> .
+<http://lunarsettlementindex.org/display/LSI/Structure-Materials> <http://data.thespaceplan.com/ontologies/lsi#lastmodified> "2016-06-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://lunarsettlementindex.org/display/LSI/Structure-Materials> <http://www.w3.org/2000/01/rdf-schema#comment> "What materials are good for a lunar structure? Examples of materials are ceramic, polymer, metals and composites." .
+<http://lunarsettlementindex.org/display/LSI/Structure-Materials> <http://data.thespaceplan.com/ontologies/lsi#averageEstInvestmentCost> "0.0(investment cost pulled from children pages)" .
+<http://lunarsettlementindex.org/display/LSI/Structure-Materials> <http://data.thespaceplan.com/ontologies/lsi#averageEstTimetoMaturity> "0.0 (time to maturity pulled from children pages)" .
+<http://lunarsettlementindex.org/display/LSI/Structure-Materials> <http://data.thespaceplan.com/ontologies/lsi#commercialStatus> "Near Term Commercial" .
+<http://lunarsettlementindex.org/display/LSI/Structure-Materials> <http://data.thespaceplan.com/ontologies/lsi#relatedIndustriesFields> "Automotive, Mining" .
+<http://lunarsettlementindex.org/display/LSI/Structure-Materials> <http://data.thespaceplan.com/ontologies/lsi#citation> "Citations:&nbsp;&nbsp;&nbsp;\n\n                \n        \n    \n        " .
