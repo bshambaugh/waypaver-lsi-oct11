@@ -1,0 +1,41 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix ods: <http://open-data-standards.github.com/2012/01/open-data-standards#> .
+@prefix dcerm: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dsbase: <http://data.nasa.gov/resource/> .
+@prefix ds: <http://data.nasa.gov/resource/gvk9-iz74/> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix usps: <http://www.w3.org/2000/10/swap/pim/usps#> .
+@prefix schema: <http://schema.org/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix lsi: <http://data.thespaceplan.com/ontologies/lsii#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+<http://lunarsettlementindex.org/display/LSI/Human-Health-Risk-of-Long-term-Low-Gravity> dc:title "Human Health Risk of Long-term Low Gravity" .
+<http://lunarsettlementindex.org/display/~admin> prov:hadRole lsi:author .
+<http://lunarsettlementindex.org/display/LSI/Human-Health-Risk-of-Long-term-Low-Gravity> lsi:lastmodified "2016-05-09T00:00:00Z"^^xsd:dateTime . 
+<http://lunarsettlementindex.org/display/LSI/Human-Health-Risk-of-Long-term-Low-Gravity> rdfs:comment "All the risks to humans of living indefinitely in lunar gravity (1/6th Earth) are not known nor able to be mitigated with current technology. Solutions will be needed and risks will need to be better understood for humans to live permanently on the Moon." .
+<http://lunarsettlementindex.org/display/LSI/Human-Health-Risk-of-Long-term-Low-Gravity> lsi:roadblockType "Scientific" .
+<http://lunarsettlementindex.org/display/LSI/Human-Health-Risk-of-Long-term-Low-Gravity>lsi:priority "2"^^xsd:integer .
+<http://lunarsettlementindex.org/display/LSI/Human-Health-Risk-of-Long-term-Low-Gravity> lsi:containsSolutionCategory <http://lunarsettlementindex.org/display/LSI/Bone-Mass-Monitoring> .
+<http://lunarsettlementindex.org/display/LSI/Bone-Mass-Monitoring> a lsi:SolutionCategory .
+<http://lunarsettlementindex.org/display/LSI/Bone-Mass-Monitoring> dc:title "Bone Mass Monitoring" . 
+<http://lunarsettlementindex.org/display/LSI/Human-Health-Risk-of-Long-term-Low-Gravity> lsi:containsSolutionCategory <http://lunarsettlementindex.org/display/LSI/Muscle-Mass-Monitoring> .
+<http://lunarsettlementindex.org/display/LSI/Muscle-Mass-Monitoring> a lsi:SolutionCategory .
+<http://lunarsettlementindex.org/display/LSI/Muscle-Mass-Monitoring> dc:title "Muscle Mass Monitoring" . 
+<http://lunarsettlementindex.org/display/LSI/Human-Health-Risk-of-Long-term-Low-Gravity> lsi:containsSolutionCategory <http://lunarsettlementindex.org/display/LSI/Reproductive-Complications-Mitigation> .
+<http://lunarsettlementindex.org/display/LSI/Reproductive-Complications-Mitigation> a lsi:SolutionCategory .
+<http://lunarsettlementindex.org/display/LSI/Reproductive-Complications-Mitigation> dc:title "Reproductive Complications Mitigation" . 
+<http://lunarsettlementindex.org/display/LSI/Human-Health-Risk-of-Long-term-Low-Gravity> lsi:label <http://lunarsettlementindex.org/label/LSI/biological-support> .
+<http://lunarsettlementindex.org/label/LSI/biological-support> dc:title "biological-support" .
+<http://lunarsettlementindex.org/display/LSI/Human-Health-Risk-of-Long-term-Low-Gravity> lsi:label <http://lunarsettlementindex.org/label/LSI/lunar-environment> .
+<http://lunarsettlementindex.org/label/LSI/lunar-environment> dc:title "lunar-environment" .
+<http://lunarsettlementindex.org/display/LSI/Human-Health-Risk-of-Long-term-Low-Gravity> lsi:citation "Citations:&nbsp;
+
+                
+        
+    
+        " .
+
