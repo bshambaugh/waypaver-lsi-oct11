@@ -5,6 +5,7 @@ php scraper-four.php > (output++) roadblocks-processed.ttl
 
 run script with url for roadblocks:
 http://lunarsettlementindex.org/display/LSI/Human+Health+Risk+of+Long-term+Low+Gravity
+, ... , etc.
 
 combine output from roadblocks into one file.
 roadblocks-processed.ttl
