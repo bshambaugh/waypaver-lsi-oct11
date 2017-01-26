@@ -15,7 +15,8 @@ $root = 'http://lunarsettlement.org/';
 //$url = 'http://lunarsettlementindex.org/pages/viewpage.action?pageId=1212639';
 //$url = 'http://52.201.49.119/display/LSI/Transportation%2C+Mobility%2C+and+Navigation';
 //$url = 'http://lunarsettlementindex.org/display/LSI/Carbothermal+Regolith+Reduction';
-$url = 'http://lunarsettlementindex.org/display/LSI/Unknown+Ideal+Habitat+Structure';
+$url = 'http://lunarsettlementindex.org/display/LSI/Lack+of+Knowledge+on+Resource+Locations';
+//$url = 'http://lunarsettlementindex.org/display/LSI/Unknown+Ideal+Habitat+Structure';
 //$url = 'http://lunarsettlementindex.org/display/LSI/Lunar+Regolith';
 //$url = 'http://lunarsettlementindex.org/display/LSI/Structure+Materials';
 // $url = 'http://lunarsettlementindex.org/display/LSI/X-Rays';
@@ -264,9 +265,51 @@ if($tabletypekey == 'List of Roadblocks') {
 
           }
 
+   // Priority (1-5)
+   // Find if the table row contains a List of Roadblocks, then capture the contents
+          if(preg_match('/% Mitigated/',$splarray[$key],$matches)) {
+           //  echo 'Hello Priority'."\n";
+            $splarraytd = preg_split('/===break===/',capturetd($splarray[$key]));
+            array_pop($splarraytd);
+          //  print_r($splarraytd);
+
+
+            foreach ($splarraytd as $key => $value) {
+
+              $spltd = preg_split('/===break===/',scrapetd($root,$splarraytd[$key]));
+            //  echo 'spltd'."\n";
+              array_pop($spltd);
+           //   print_r($spltd);
+              if($spltd !== NULL) {
+
+                  foreach($spltd as $key => $value) {
+                 // [4] echo to pull into global turtle file
+                 $local_table_result_s4 = $local_table_result_s4.
+                                       '<'.$url.'> '.$spltd[$key];
+               }
+
+             }
+              if($spltd == NULL) {
+                $local_table_result_s4 = strip_tags($splarraytd[$key]);
+              }
+
+              }
+
+
+
+
+          }
+
+
+
+
+
      $local_table_result = $local_table_result_s1.
           '<'.$url.'> '.'lsi:roadblockType '.'"'.$local_table_result_s2.'" .'."\n".
-          '<'.$url.'>'.'lsi:priority "'.$local_table_result_s3.'"^^xsd:integer .'."\n";
+          '<'.$url.'>'.'lsi:priority "'.$local_table_result_s3.'"^^xsd:integer .'."\n".
+          '<'.$url.'>'.'lsi:percentMitigation "'.$local_table_result_s4.'"^^xsd:integer .'."\n".
+          '<'.$url.'>'.' rdf:type lsi:Roadblock .'."\n";
+
     }
 
 

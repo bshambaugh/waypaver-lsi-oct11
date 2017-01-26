@@ -1,0 +1,36 @@
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix socrata: <http://www.socrata.com/rdf/terms#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix ods: <http://open-data-standards.github.com/2012/01/open-data-standards#> .
+@prefix dcerm: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dsbase: <http://data.nasa.gov/resource/> .
+@prefix ds: <http://data.nasa.gov/resource/gvk9-iz74/> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix usps: <http://www.w3.org/2000/10/swap/pim/usps#> .
+@prefix schema: <http://schema.org/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix lsi: <http://data.thespaceplan.com/ontologies/lsi#> .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Knowledge+on+Resource+Locations> dc:title "Lack of Knowledge on Resource Locations" .
+<http://lunarsettlementindex.org/display/~admin> prov:hadRole lsi:author .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Knowledge+on+Resource+Locations> lsi:lastmodified "2016-09-28"^^xsd:dateTime . 
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Knowledge+on+Resource+Locations> rdfs:comment "We have not identified to any degree of certainty the ideal location of a lunar settlement. Relevant details are access to lunar resources, communications implications, landing difficulty, and more." .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Knowledge+on+Resource+Locations> lsi:roadblockType "Scientific" .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Knowledge+on+Resource+Locations>lsi:priority "1"^^xsd:integer .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Knowledge+on+Resource+Locations>lsi:percentMitigation ""^^xsd:integer .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Knowledge+on+Resource+Locations> rdf:type lsi:Roadblock .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Knowledge+on+Resource+Locations> lsi:containsSolutionCategory <http://lunarsettlementindex.org/display/LSI/Water+Discovery> .
+<http://lunarsettlementindex.org/display/LSI/Water+Discovery> a lsi:SolutionCategory .
+<http://lunarsettlementindex.org/display/LSI/Water+Discovery> dc:title "Water Discovery" . 
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Knowledge+on+Resource+Locations> lsi:label <http://lunarsettlementindex.org/label/LSI/habitation-infrastructure> .
+<http://lunarsettlementindex.org/label/LSI/habitation-infrastructure> dc:title "habitation-infrastructure" .
+<http://lunarsettlementindex.org/display/LSI/Lack+of+Knowledge+on+Resource+Locations> lsi:citation "Citations:Siegfried, W., &quot;Lunar base development missions,&quot; Acta Astronautica, 44, (1999) 7-12Siegfried - 1999 - Lunar base development missions.pdfDetsis, E., et al., &quot;Location selection and layout for LB10- a lunar base at the lunar north pole with a liquid mirror observatory,&quot; Acta Astronautica, 85, (2013), 61-72Detsis - 2013 - Location selection and layout for LB10- a lunar base at the lunar north pole with a liquid mirror observatory.pdfMalla, R., and Brown, K., &quot;Determination of temperature variation on lunar surface and subsurface for habitat analysis and design,&quot; Acta Astronautica, 107 (2015), 196-207Malla - 2015 - Determination of temperature variation on lunar surface and subsurface for habitat analysis and design.pdf
+
+                
+        
+    
+        " .
